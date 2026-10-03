@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e1",
+    "email": "lia@example.test",
+    "type": "lead",
+    "consent": true
+  },
+  {
+    "id": "e1",
+    "email": "lia@example.test",
+    "type": "lead",
+    "consent": true
+  },
+  {
+    "id": "e2",
+    "email": "lia@example.test",
+    "type": "booked",
+    "consent": true
+  },
+  {
+    "id": "e3",
+    "email": "lia@example.test",
+    "type": "lead",
+    "consent": true
+  },
+  {
+    "id": "e4",
+    "email": "no@example.test",
+    "type": "lead",
+    "consent": false
+  }
+]

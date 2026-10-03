@@ -1,0 +1,5 @@
+name,email,company_size,source,requested_demo
+Ana Lead,ana@example.test,50,website,yes
+Ana Duplicate, ANA@example.test ,50,ad,no
+Bruno Lead,bruno@example.test,8,organic,no
+Invalid,bad-email,20,website,yes

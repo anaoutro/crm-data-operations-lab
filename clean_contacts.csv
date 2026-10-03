@@ -1,0 +1,3 @@
+source_id,name,email,phone_digits,owner
+1,Ana Silva,ana@example.test,5524999990000,Team A
+3,Beto,beto@example.test,,Team B

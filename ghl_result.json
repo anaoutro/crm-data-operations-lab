@@ -1,0 +1,14 @@
+{
+  "actions": [
+    {
+      "email": "lia@example.test",
+      "action": "appointment_reminder",
+      "due": "24h_before_appointment"
+    },
+    {
+      "email": "no@example.test",
+      "action": "manual_review_no_outbound"
+    }
+  ],
+  "unique_events": 4
+}

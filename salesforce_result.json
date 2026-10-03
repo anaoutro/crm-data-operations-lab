@@ -1,0 +1,41 @@
+[
+  {
+    "id": "O1",
+    "issues": [],
+    "review_priority": "normal"
+  },
+  {
+    "id": "O2",
+    "issues": [
+      "stale_opportunity",
+      "missing_next_step"
+    ],
+    "review_priority": "high"
+  },
+  {
+    "id": "O3",
+    "issues": [
+      "stale_opportunity"
+    ],
+    "review_priority": "high"
+  },
+  {
+    "id": "O4",
+    "issues": [],
+    "review_priority": "normal"
+  },
+  {
+    "id": "O5",
+    "issues": [
+      "invalid_amount"
+    ],
+    "review_priority": "high"
+  },
+  {
+    "id": "O6",
+    "issues": [
+      "missing_next_step"
+    ],
+    "review_priority": "high"
+  }
+]

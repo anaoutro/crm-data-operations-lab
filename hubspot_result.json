@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Ana Lead",
+      "email": "ana@example.test",
+      "score": 75,
+      "sources": [
+        "ad",
+        "website"
+      ],
+      "owner": "sales_priority"
+    },
+    {
+      "name": "Bruno Lead",
+      "email": "bruno@example.test",
+      "score": 0,
+      "sources": [
+        "organic"
+      ],
+      "owner": "sales_general"
+    }
+  ],
+  "rejected": [
+    {
+      "row": {
+        "name": "Invalid",
+        "email": "bad-email",
+        "company_size": "20",
+        "source": "website",
+        "requested_demo": "yes"
+      },
+      "reason": "invalid_email"
+    }
+  ],
+  "audit": [
+    {
+      "email": "ana@example.test",
+      "action": "merged_duplicate"
+    }
+  ]
+}

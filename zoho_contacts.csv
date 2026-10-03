@@ -1,0 +1,5 @@
+source_id,name,email,phone,owner
+1,Ana Silva,ANA@example.test,+55 (24) 99999-0000,Team A
+2,Ana S.,ana@example.test,24999990000,Team A
+3,Beto,beto@example.test,,Team B
+4,No Email,,(24) 98888-0000,Team B

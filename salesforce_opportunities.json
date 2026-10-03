@@ -1,0 +1,44 @@
+[
+  {
+    "id": "O1",
+    "stage": "Discovery",
+    "amount": 2000,
+    "days_idle": 2,
+    "next_step": "Call"
+  },
+  {
+    "id": "O2",
+    "stage": "Proposal",
+    "amount": 4000,
+    "days_idle": 21,
+    "next_step": ""
+  },
+  {
+    "id": "O3",
+    "stage": "Negotiation",
+    "amount": 9000,
+    "days_idle": 17,
+    "next_step": "Email"
+  },
+  {
+    "id": "O4",
+    "stage": "Closed Won",
+    "amount": 5000,
+    "days_idle": 35,
+    "next_step": ""
+  },
+  {
+    "id": "O5",
+    "stage": "Proposal",
+    "amount": 0,
+    "days_idle": 1,
+    "next_step": "Review"
+  },
+  {
+    "id": "O6",
+    "stage": "Discovery",
+    "amount": 3000,
+    "days_idle": 3,
+    "next_step": ""
+  }
+]

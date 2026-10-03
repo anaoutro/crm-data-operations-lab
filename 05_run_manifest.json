@@ -1,0 +1,12 @@
+{
+  "input": "source_accounts.csv",
+  "input_sha256": "be3042ca68655ae44ae25398f5018abce07e201ec1666d23c65829bcbd2da7a3",
+  "rows": 12,
+  "unique_researched": 10,
+  "exceptions": 2,
+  "source_scope": "Public company pages only",
+  "personal_contacts": 0,
+  "outreach_sent": 0,
+  "sales_results": 0,
+  "score_definition": "scale 30 + category 20 + source 25 + booking 20 + market 5"
+}
